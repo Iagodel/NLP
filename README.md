@@ -1,0 +1,1 @@
+Projeto referente ao estudo sobre análise e identificação de vozes em conjunto de áudios utilizando redes complexas e técnicas de processamento de sinal. Que posteriormente tornou-se um Trabalho de Conclusão de Curso.
